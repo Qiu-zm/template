@@ -35,6 +35,10 @@ vue2-web3 增加web3.js
 
 vue2-web3-axios 增加 axios
 
+vue2-web3-graphql -- vant router vuex web3 graphql iconfrom
+
+vue2-web3-new -- vant router vuex web3
+
 ## vue3
 
 vite-vue3 基础包含 vant vuex axios
